@@ -1,0 +1,27 @@
+.grid-row{
+    display: flex;
+}
+.grid{
+    margin: auto;
+    justify-content: center;
+}
+button
+{
+  background-color:rgba(0, 184, 148,1.0); /* Green background */
+   /* border: 1px solid darkcyan ;Green border */
+  display:inline-block;
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  margin: auto;
+  cursor: pointer; /* Pointer/hand icon */
+ 
+}
+
+#dijkstra{
+    margin-top: 2px;
+    background-color:rgba(56, 103, 214,1.0);
+}
+
+.clicked{
+    background-color: rgb(0, 121, 93);
+}
