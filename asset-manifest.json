@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Hurdles-Pathfinding-Algorithm-Visualizer/static/css/main.a6dcee92.chunk.css",
+    "main.js": "/Hurdles-Pathfinding-Algorithm-Visualizer/static/js/main.9e8eab4c.chunk.js",
+    "main.js.map": "/Hurdles-Pathfinding-Algorithm-Visualizer/static/js/main.9e8eab4c.chunk.js.map",
+    "runtime-main.js": "/Hurdles-Pathfinding-Algorithm-Visualizer/static/js/runtime-main.316ef9d9.js",
+    "runtime-main.js.map": "/Hurdles-Pathfinding-Algorithm-Visualizer/static/js/runtime-main.316ef9d9.js.map",
+    "static/js/2.3fdcb3a1.chunk.js": "/Hurdles-Pathfinding-Algorithm-Visualizer/static/js/2.3fdcb3a1.chunk.js",
+    "static/js/2.3fdcb3a1.chunk.js.map": "/Hurdles-Pathfinding-Algorithm-Visualizer/static/js/2.3fdcb3a1.chunk.js.map",
+    "index.html": "/Hurdles-Pathfinding-Algorithm-Visualizer/index.html",
+    "static/css/main.a6dcee92.chunk.css.map": "/Hurdles-Pathfinding-Algorithm-Visualizer/static/css/main.a6dcee92.chunk.css.map",
+    "static/js/2.3fdcb3a1.chunk.js.LICENSE.txt": "/Hurdles-Pathfinding-Algorithm-Visualizer/static/js/2.3fdcb3a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.316ef9d9.js",
+    "static/js/2.3fdcb3a1.chunk.js",
+    "static/css/main.a6dcee92.chunk.css",
+    "static/js/main.9e8eab4c.chunk.js"
+  ]
+}
